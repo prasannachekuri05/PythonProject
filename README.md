@@ -11,3 +11,10 @@ Features:
 5. Evaluation – accuracy, loss, and predictions on test data.
 
 
+Outputs:
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/4943f9d5-67dc-46b1-9ebf-64214df54f2b" />
+<img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/6a5e4169-fea1-450a-8b94-8ddf06227fc2" />
+<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/0ee00012-6ed8-467a-82fa-0774447b036d" />
+
+It will predict the uploaded image is male or female.
